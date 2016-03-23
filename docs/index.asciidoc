@@ -1,0 +1,5 @@
+= Servicecheckbeat Docs
+
+Welcome to the Servicecheckbeat documentation.
+
+

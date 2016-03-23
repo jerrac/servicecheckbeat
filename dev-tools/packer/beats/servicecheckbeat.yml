@@ -1,0 +1,4 @@
+beat_name: servicecheckbeat
+beat_url: 'https://github.com/jerrac'
+beat_repo: 'github.com/jerrac'
+beat_description: Sends servicecheckbeat metrics to Logstash or directly to Elasticsearch.
